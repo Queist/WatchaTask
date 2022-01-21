@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WatchaTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_music">Musics</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_collection_name">defaultCollectionName</string>
+    <string name="default_artist_name">defaultArtistName</string>
+    <string name="default_track_name">defaultTrackName</string>
+    <string name="artwork">artWorkImage</string>
+    <string name="favorite_toggle_button">favoriteToggleButton</string>
+</resources>
